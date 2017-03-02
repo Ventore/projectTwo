@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+
+#container {
+  border: 2px solid gray;
+  margin: 100px auto;
+  max-width: 360px;
+}
+
+.completed {
+  color: lightgray;
+  text-decoration: line-through;
+}
+
+li {
+  cursor: pointer;
+}
